@@ -1,1 +1,2 @@
 den ca con khi cung hieu dc lenh git
+add: Dang ky thay doi trong index
